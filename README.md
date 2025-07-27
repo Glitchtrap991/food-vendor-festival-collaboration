@@ -9,7 +9,7 @@ A simple web app to discover popular Indian street foods and the festivals they 
 ---
 ## 🎥 Demo Presentation
 
-📄 [Download FestivalDemo.pptx](https://github.com/Glitchtrap991/food-vendor-festival-collaboration/raw/main/Festival-Food-Finder.pptx)
+📄 [Download the presentation here](https://github.com/Glitchtrap991/food-vendor-festival-collaboration/raw/main/Festival-Food-Finder.pptx)
 
 ---
 
