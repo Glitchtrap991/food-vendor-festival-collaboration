@@ -8,9 +8,6 @@ A simple web app to discover popular Indian street foods and the festivals they 
 
 ---
 
-📄 [View Demo Presentation](Festival-Food-Finder.pptx) 
-
----
 ## 🌟 Features
 
 - 🔍 Search & filter food items
