@@ -9,7 +9,7 @@ A simple web app to discover popular Indian street foods and the festivals they 
 ---
 ## 🎥 Demo Presentation
 
-📄 [Click here to view/download the FestivalDemo Presentation](FestivalDemo.pptx)
+📄 [Click here to view/download the FestivalDemo Presentation](Festival-Food-Finder.pptx)
 
 ---
 
