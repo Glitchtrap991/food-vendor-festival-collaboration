@@ -1,5 +1,9 @@
 # 🍛 Festival Food Finder
 
+[![Deploy to Firebase](https://github.com/Glitchtrap991/food-vendor-festival-collaboration/actions/workflows/firebase-hosting.yml/badge.svg)](https://github.com/Glitchtrap991/food-vendor-festival-collaboration/actions)
+
+🔗 **Live Demo**: [https://festival-food-finder.web.app](https://festival-food-finder.web.app)
+
 A simple web app to discover popular Indian street foods and the festivals they are associated with. Built for the Tutedude Web Development Hackathon.
 
 ---
