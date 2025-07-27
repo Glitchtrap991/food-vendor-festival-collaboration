@@ -37,7 +37,10 @@ A simple web app to discover popular Indian street foods and the festivals they 
 
 ## 📂 Project Structure
 
-  <pre lang="markdown"> ```plaintext 📦 public/ ├── index.html # Main user-facing UI (food discovery, map, vendors) ├── style.css # Styling with Bootstrap and custom tweaks ├── script.js # Core logic: filtering, map rendering, vendor cards ├── firebase-config.js # Firebase config and Firestore access ├── admin.html # Google-auth admin panel for deleting foods ├── 404.html # Custom 404 fallback (optional) ``` </pre>
+```plaintext 
+📦 public/ ├── index.html # Main user-facing UI (food discovery, map, vendors) ├── style.css # Styling with Bootstrap and custom tweaks ├── script.js # Core logic: filtering, map rendering, vendor cards ├── firebase-config.js # Firebase config and Firestore access ├── admin.html # Google-auth admin panel for deleting foods ├── 404.html # Custom 404 fallback (optional)
+
+```
 
 ---
 
